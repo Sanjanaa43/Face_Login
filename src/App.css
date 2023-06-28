@@ -1,0 +1,17 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.btn-container {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  transition: all 2s ease;
+}
+
+button {
+  background-color: #000000;
+}
